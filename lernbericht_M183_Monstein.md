@@ -28,7 +28,7 @@ Im GIF zeige ich ein simples XSS Beispiel. Im Text beschreibe ich genauer, wie d
 
 # Reflektion zum Arbeitsprozess
 
-Das Konzept von Cross Site Scripting fand ich relativ gut verständlich. Dank der Aufgabe auf [Hacksplaining](www.hacksplaining.com/exercises/xss-stored) konnte ich es noch besser nachvollziehen.
+Das Konzept von Cross Site Scripting fand ich relativ gut verständlich. Dank der Aufgabe auf [Hacksplaining](https://www.hacksplaining.com/exercises/xss-stored) konnte ich es noch besser nachvollziehen.
 Am Anfang war ich verwirrt wie ich XSS Angriffe escapen kann, danach ist mir jedoch aufgefallen das JSF dies bereits automatisch macht.
 
 **VBV**: Ich sollte Aufgaben, mit denen ich im Unterricht nicht fertig werde, zu Hause fertig lösen.
